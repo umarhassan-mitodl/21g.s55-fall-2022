@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 28b59f07-4f9c-430e-bc5d-8a2f7884747f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 11bb80c7-2412-491d-ba2e-e1da867fbd9b
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 758d65fc-f1d7-41cd-9a83-8e0f3c732ad2
+  name: Lessons
+  pageRef: /pages/tobira
+  weight: 30
+- identifier: abb2de3c-697a-4973-b7c5-2157222431d5
+  name: Kanji Study Guide
+  pageRef: /pages/kanji-study-guide
+  weight: 40
+- identifier: fbce4f56-943f-4cbf-89d5-523858bdbd40
+  name: Grammar Notes
+  pageRef: /lists/grammar-notes
+  weight: 50
