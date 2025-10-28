@@ -5,27 +5,27 @@ draft: false
 title: Lessons
 uid: 758d65fc-f1d7-41cd-9a83-8e0f3c732ad2
 ---
-とびらのホームページは、[ここ](http://tobiraweb.9640.jp/)です。文法練習問題は、[ここ](http://tobiraweb.9640.jp/contents/%e6%96%87%e6%b3%95%e6%95%99%e6%9d%90/)からダウンロードできます。漢字練習問題は、[ここ](http://tobiraweb.9640.jp/contents/%e6%bc%a2%e5%ad%97%e3%83%bb%e8%aa%9e%e5%bd%99%e6%95%99%e6%9d%90/%e6%bc%a2%e5%ad%97%e7%b7%b4%e7%bf%92%e5%95%8f%e9%a1%8c/)からダウンロードできます。とびらの教科書のビデオを見たい人は、下のイメージをクリックしてください。下にある単語の練習、漢字のリンクはQuizletのリンクです。練習したい人は、使ってみてください。
+とびらのホームページは、{{% resource_link "cbfa7010-8662-47e8-9088-bdf473352137" "ここ" %}}です。文法練習問題は、{{% resource_link "27e4b26a-4866-433c-b202-7a81a01100f9" "ここ" %}}からダウンロードできます。漢字練習問題は、{{% resource_link "cb663953-f9f2-49ec-b00c-67b23f678f1f" "ここ" %}}からダウンロードできます。とびらの教科書のビデオを見たい人は、下のイメージをクリックしてください。下にある単語の練習、漢字のリンクはQuizletのリンクです。練習したい人は、使ってみてください。
 
 第一課
 
 日本の地理
 
-[単語の練習](https://quizlet.com/343923637/tobira-chapter-1-vocabulary-flash-cards/)
+{{% resource_link "89bb8f20-3c14-419f-8a4e-5ee4768de8e7" "単語の練習" %}}
 
-[漢字](https://quizlet.com/343927151/tobira-chapter-1-kanji-flash-cards/)
+{{% resource_link "1c5e566c-23ef-4b9e-aac3-930de4bbf13d" "漢字" %}}
 
-[音声](http://tobiraweb.9640.jp/contents/%e9%9f%b3%e5%a3%b0%e6%95%99%e6%9d%90/%e7%ac%ac1%e8%aa%b2/)
+{{% resource_link "0593c51b-ea71-402c-a8c7-615986670a78" "音声" %}}
 
 第二課
 
 日本語のスピーチ・スタイル
 
-[単語の練習](https://quizlet.com/343925245/tobira-chapter-2-vocabulary-flash-cards/)
+{{% resource_link "46db225d-afbf-4d39-a197-da62df58843e" "単語の練習" %}}
 
-[漢字](https://quizlet.com/298190458/tobira-chapter-2-kanji-flash-cards/)
+{{% resource_link "6b99dc2a-f2ca-482c-bca4-e4983d959469" "漢字" %}}
 
-[音声](http://tobiraweb.9640.jp/contents/%e9%9f%b3%e5%a3%b0%e6%95%99%e6%9d%90/%e7%ac%ac2%e8%aa%b2/)
+{{% resource_link "a8b38118-e085-4f02-99ec-1884dcf1e014" "音声" %}}
 
 第三課
 
@@ -33,26 +33,26 @@ uid: 758d65fc-f1d7-41cd-9a83-8e0f3c732ad2
 
 単語の練習 (not available)
 
-[漢字](https://quizlet.com/343920543/tobira-chapter-3-kanji-flash-cards/)
+{{% resource_link "1ee84dc3-9b91-4ab1-b6d8-5bc643559ba2" "漢字" %}}
 
-[音声](http://tobiraweb.9640.jp/contents/%e9%9f%b3%e5%a3%b0%e6%95%99%e6%9d%90/%e7%ac%ac3%e8%aa%b2/)
+{{% resource_link "ce6d5667-4976-4e25-a33e-383181a77b9c" "音声" %}}
 
 第四課
 
 日本のスポーツ
 
-[単語の練習](https://quizlet.com/374760825/tobira-chapter-4-vocabulary-flash-cards/)
+{{% resource_link "dc8bef4f-33e0-4e27-9cce-49bc4f25f556" "単語の練習" %}}
 
-[漢字](https://quizlet.com/343921616/tobira-chapter-4-kanji-flash-cards/)
+{{% resource_link "b1973244-2054-4a49-8a59-6c43d97df584" "漢字" %}}
 
-[音声](http://tobiraweb.9640.jp/contents/%e9%9f%b3%e5%a3%b0%e6%95%99%e6%9d%90/%e7%ac%ac4%e8%aa%b2/)
+{{% resource_link "cd50ba70-c6fa-4779-affe-b7512ab3c192" "音声" %}}
 
 第五課
 
 日本の食べ物
 
-[単語の練習](https://quizlet.com/378551693/tobira-chapter-5-vocabulary-flash-cards/)
+{{% resource_link "eadfdee9-6aec-4959-bd40-8043dfa1177f" "単語の練習" %}}
 
-[漢字](https://quizlet.com/498613808/tobira-l5-kanji-flash-cards/)
+{{% resource_link "23b2f238-fd82-4502-aede-0768b252e1fd" "漢字" %}}
 
-[音声](http://tobiraweb.9640.jp/contents/%e9%9f%b3%e5%a3%b0%e6%95%99%e6%9d%90/%e7%ac%ac5%e8%aa%b2/)
+{{% resource_link "b63f6739-82df-4c64-99a6-8168fc5fedc8" "音声" %}}
