@@ -5,8 +5,6 @@ draft: false
 file: /courses/21g-s55-japanese-v-fall-2022/21g-s55f22-th.jpg
 file_size: 418942
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
