@@ -5,8 +5,6 @@ draft: false
 file: /courses/21g-s55-japanese-v-fall-2022/mit21g_s55_grammar02s1.pptx
 file_size: 632568
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

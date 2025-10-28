@@ -5,8 +5,6 @@ draft: false
 file: /courses/21g-s55-japanese-v-fall-2022/mit21g_s55_ksg05.docx
 file_size: 17160
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -23,7 +23,7 @@
     "website": "japanese-v"
   },
   "course_title": "Japanese V",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "This is an experimental version of 21G.505, which offers a combination of in-person and synchronous remote instruction. It aims to achieve simultaneous progression of four skills\u2014listening, speaking, reading, and writing. It immerses students in various aspects of Japanese culture through authentic everyday Japanese media.",
   "department_numbers": [
@@ -35,7 +35,6 @@
     "content": "2947cfbb-4f7c-4896-ab05-3169d1a4845e",
     "website": "japanese-v"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes",
     "Open Textbooks",
